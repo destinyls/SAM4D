@@ -1,2 +1,3 @@
-data/
+data/output_sam3d_gaussian/
+data/output_sam3_tracking/
 __pycache__/
